@@ -40,13 +40,13 @@ Full DSpace deployment for the Parliament of Kenya — end-to-end configuration 
 
 - 🏅 AWS Certified Solutions Architect – Associate
 - 🏅 Oracle Cloud Infrastructure 2025 Multicloud Architect Professional (1Z0-1151-25)
-
+-
 ---
 
 ## Experience highlights
 
 - **Cloud Engineer** — Google Developers Group Nairobi *(Jul 2025 – Present)*
-- **Cloud Support Engineer Intern** — Amazon Web Services *(Feb – May 2025)*
+- **Cloud Support Engineer** — Amazon Web Services *(Feb – May 2025)*
 - **Technical Support Specialist** — Parliament of Kenya *(2023 – 2024)*
 
 ---
