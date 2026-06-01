@@ -40,7 +40,13 @@ Full DSpace deployment for the Parliament of Kenya — end-to-end configuration 
 
 - 🏅 AWS Certified Solutions Architect – Associate
 - 🏅 Oracle Cloud Infrastructure 2025 Multicloud Architect Professional (1Z0-1151-25)
--
+- 🏅 Kubernetes and Cloud Native Essentials · The Linux Foundation · Issued Apr 2026
+- 🏅 Certified Artificial Intelligence Security & Risk (CAISR) · Red Team Leaders · Issued Feb 2026
+- 🏅 AI Security & Governance Certified · Securiti AI · Issued Nov 2025 · Expires Nov 2027
+- 🏅 PrivacyOps Certification · Securiti AI · Issued Dec 2025 · Expires Dec 2027
+- 🏅 Generative AI Fundamentals · Databricks · Issued Dec 2025
+- 🏅 Artificial Intelligence Certification (AI) · Asana · Issued Nov 2025 · Expires Nov 2027
+- 🏅 Workflow Specialist · Asana · Issued Nov 2025 · Expires Nov 2027
 ---
 
 ## Experience highlights
